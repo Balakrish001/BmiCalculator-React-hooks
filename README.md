@@ -1,4 +1,4 @@
-# Effect Hook | Part 2
+# Effect Hook 
 
 - Persisting Application data
   - Local Storage
